@@ -29,7 +29,7 @@ se ubican las clases de pruebas unitarias organizadas para cubrir todos los mét
 relevantes del proyecto.
 
 Cómo clonar y ejecutar el proyecto Abrir una terminal y clonar el repositorio con el comando:
-git clone https://github.com/Menestra1700/Proyectopoo1/tree/main Abrir el proyecto en un IDE
+git clone https://github.com/Menestra1700/POO4 Abrir el proyecto en un IDE
 como Eclipse. Verificar que el proyecto esté configurado con el JDK adecuado. Configurar las
 rutas de los archivos CSV en la clase MainController, asegurándose de que apunten a ubicaciones
 válidas en el equipo, por ejemplo: peliculasController a new PeliculasController
